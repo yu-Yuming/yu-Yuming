@@ -1,3 +1,1 @@
-# Ming
-
-Founder, Owner of @3nLab Project
+Founder, Owner of [@3nLab](https://github.com/3nLab)
